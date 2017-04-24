@@ -1,6 +1,7 @@
 #include <stdio.h>
+int main()
 {
-	char character[32];
+	int number[32];
 	printf("hello world");
 	return 0;
 }
