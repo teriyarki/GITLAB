@@ -1,6 +1,6 @@
 #include <stdio.h>
 {
-	int i=0;
+	int i=1;
 	int j=10;
 	char letter[32];
 	printf("hello world");
