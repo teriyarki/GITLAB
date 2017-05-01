@@ -1,7 +1,7 @@
 #include <stdio.h>
 {
 
-	int i=1;
+	int i=2;
 	int j=11;
 
 	char letter[32];
